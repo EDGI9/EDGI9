@@ -118,7 +118,7 @@
       style="max-width: 100%"
     />
   </a>
-  <a href="https://https://lesscss.org/" rel="nofollow">
+  <a href="https://lesscss.org/" rel="nofollow">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/less/less-plain-wordmark.svg"
       alt="less"
