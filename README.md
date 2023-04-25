@@ -15,7 +15,7 @@
 <br/>
 
 <div align="center">
-   <p>My name is Edgar Dias and I am a Front-Dnd Developer. I am an experienced coder with years of experience working on different international projects and teams. I enjoy using my skills to contribute to existing projects and convert ideas into reality.</p>
+   <p>My name is Edgar Dias and I am a Front-End Developer. I am an experienced coder with years of experience working on different international projects and teams. I enjoy using my skills to contribute to existing projects and convert ideas into reality.</p>
 </div>
 
 <br>
